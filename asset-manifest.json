@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/online-course-website-2/static/css/main.69a8bb83.css",
+    "main.js": "/online-course-website-2/static/js/main.63e99751.js",
+    "static/js/787.73a4972f.chunk.js": "/online-course-website-2/static/js/787.73a4972f.chunk.js",
+    "static/media/m1.jpg": "/online-course-website-2/static/media/m1.72bcd15db9cfe3c5e98c.jpg",
+    "static/media/security.jpg": "/online-course-website-2/static/media/security.bdbe350f98acacac3496.jpg",
+    "static/media/f3.webp": "/online-course-website-2/static/media/f3.ef2f0895a92a39903c81.webp",
+    "static/media/stack.jpg": "/online-course-website-2/static/media/stack.00f3bdce9563d7cbd6ad.jpg",
+    "static/media/data.jpg": "/online-course-website-2/static/media/data.38bf9ad65cdc28c98d38.jpg",
+    "static/media/web.jpg": "/online-course-website-2/static/media/web.c8b69fd62e8718263ce5.jpg",
+    "static/media/f2.jpg": "/online-course-website-2/static/media/f2.20c25c5666e7ea60a9fa.jpg",
+    "static/media/app.jpg": "/online-course-website-2/static/media/app.856a44e034b073d91387.jpg",
+    "index.html": "/online-course-website-2/index.html",
+    "main.69a8bb83.css.map": "/online-course-website-2/static/css/main.69a8bb83.css.map",
+    "main.63e99751.js.map": "/online-course-website-2/static/js/main.63e99751.js.map",
+    "787.73a4972f.chunk.js.map": "/online-course-website-2/static/js/787.73a4972f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69a8bb83.css",
+    "static/js/main.63e99751.js"
+  ]
+}
